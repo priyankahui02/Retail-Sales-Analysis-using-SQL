@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,700
+2,Headphones,Electronics,80
+3,Keyboard,Electronics,40
+4,Mouse,Electronics,25
+5,Office Chair,Furniture,150
+6,Desk,Furniture,220
+7,Notebook,Stationery,5
+8,Pen Pack,Stationery,3
+9,Backpack,Accessories,35
+10,Water Bottle,Accessories,12
